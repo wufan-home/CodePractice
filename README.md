@@ -1,2 +1,5 @@
-# language
-This repository is a collection of sample code from various languages.
+This repository is to collect the samples from reality engineering issues.
+
+## Contents
+
+* Read-write lock.
